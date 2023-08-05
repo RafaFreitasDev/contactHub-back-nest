@@ -1,6 +1,9 @@
 {
   "name": "m6-backend-contacts-nest",
   "version": "0.0.1",
+  "engines": {
+    "node": ">=16.13.0"
+  },
   "description": "",
   "author": "",
   "private": true,
